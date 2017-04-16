@@ -1,0 +1,7 @@
+#Sat Apr 15 18:44:30 PDT 2017
+base.0=C\:\\murach\\android\\ex_starts\\com.tat.Ch07_TipCalculator\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_f850850d95c25c620010a81a12d88c39891f3bfd
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\murach\\android\\ex_starts\\com.tat.Ch07_TipCalculator\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_a8e027fdad562a505cc761b2a16b565efd744bbc\\classes.dex
+base.1=C\:\\murach\\android\\ex_starts\\com.tat.Ch07_TipCalculator\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_a8e027fdad562a505cc761b2a16b565efd744bbc
+file.0=C\:\\murach\\android\\ex_starts\\com.tat.Ch07_TipCalculator\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_f850850d95c25c620010a81a12d88c39891f3bfd\\classes.dex

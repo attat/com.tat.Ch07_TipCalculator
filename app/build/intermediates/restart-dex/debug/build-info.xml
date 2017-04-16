@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86"
+    api-level="25"
+    build-mode="COLD"
+    density="420dpi"
+    format="10"
+    plugin-version="2.3.0"
+    timestamp="1492307060572"
+    token="2221957468923960682"
+    verifier="COLD_SWAP_REQUESTED" >
+
+    <task
+        name="javac"
+        duration="634" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="454" />
+    <task
+        name="verifier"
+        duration="81" />
+
+    <artifact
+        location="C:\murach\android\ex_starts\com.tat.Ch07_TipCalculator\app\build\intermediates\split-apk\debug\slices\slice_0.apk"
+        type="SPLIT" />
+    <artifact
+        location="C:\murach\android\ex_starts\com.tat.Ch07_TipCalculator\app\build\intermediates\split-apk\debug\slices\slice_4.apk"
+        type="SPLIT" />
+    <artifact
+        location="C:\murach\android\ex_starts\com.tat.Ch07_TipCalculator\app\build\outputs\apk\app-debug.apk"
+        type="SPLIT_MAIN" />
+
+    <build
+        build-mode="FULL"
+        timestamp="1492306490755"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="C:\murach\android\ex_starts\com.tat.Ch07_TipCalculator\app\build\outputs\apk\app-debug.apk"
+            type="SPLIT_MAIN" />
+    </build>
+    <build
+        build-mode="COLD"
+        timestamp="1492307060572"
+        verifier="COLD_SWAP_REQUESTED" >
+        <artifact
+            location="C:\murach\android\ex_starts\com.tat.Ch07_TipCalculator\app\build\intermediates\split-apk\debug\slices\slice_0.apk"
+            type="SPLIT" />
+        <artifact
+            location="C:\murach\android\ex_starts\com.tat.Ch07_TipCalculator\app\build\intermediates\split-apk\debug\slices\slice_4.apk"
+            type="SPLIT" />
+        <artifact
+            location="C:\murach\android\ex_starts\com.tat.Ch07_TipCalculator\app\build\outputs\apk\app-debug.apk"
+            type="SPLIT_MAIN" />
+    </build>
+
+</instant-run>
